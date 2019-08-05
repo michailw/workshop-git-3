@@ -1,2 +1,2 @@
-Linia 1
+cos starego Linia 1
 nowa linia w pliku1
