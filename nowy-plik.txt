@@ -1,1 +1,1 @@
-nowy plik
+nowy plik co się zwie nowy-plik.txt
