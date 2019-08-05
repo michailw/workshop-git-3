@@ -2,3 +2,5 @@ Kamil
 Michal tu byl
 
 Added another line
+Dodanie kolejnej lini
+Dodanie jeszcze jednej lini w tym pliku
